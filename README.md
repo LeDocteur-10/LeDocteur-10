@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://via.placeholder.com/150" alt="Logo de LeDocteur" />
+  <img src="https://github.com/user-attachments/assets/e398335e-03ee-4092-af3e-d37297bacfc6" alt="Ma photo de profile discord" />
 </p>
 
 <h1 align="center">Bienvenue sur le profil de LeDocteur</h1>
@@ -42,24 +42,13 @@
   <img src="https://github-readme-stats.vercel.app/api?username=LeDocteur&show_icons=true&theme=radical" alt="Statistiques GitHub de LeDocteur" />
 </p>
 
-## Me contacter
-
-<p>
-  <a href="https://www.linkedin.com/in/LeDocteur">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:ledocteur@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
-
 ---
 
 <p align="center">
-  <img src="https://via.placeholder.com/150" alt="LeDocteur's Logo" />
+  <img src="https://github.com/user-attachments/assets/2f02126f-03ca-4988-a8ad-cdba2d3bf2c1" alt="My Discord Logo" />
 </p>
 
-<h1 align="center">Welcome to LeDocteur's Profile</h1>
+<h1 align="center">Welcome to my profile !</h1>
 
 <p align="center">
   <a href="https://github.com/LeDocteur?tab=followers">
@@ -78,7 +67,7 @@
 - 🔒 **Sharing Policy**: I do not publish my code. If I do, it is prohibited to reuse or modify it without permission.
 - 🌐 **Skills**:
   - Languages: HTML, CSS, some Python
-  - Systems: Linux, especially Kali Linux
+  - Systems: Linux, especially Kali Linux and windows 10 - 11
 - 📚 **Learning**: Always seeking new knowledge in other programming languages
 
 ## Languages and Tools
@@ -90,6 +79,12 @@
   <img src="https://img.shields.io/badge/Code-HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/Code-CSS3-1572B6?logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/Code-Python-3776AB?logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Tools-Git-F05032?logo=git&logoColor
-::contentReference[oaicite:0]{index=0}
+  <img src="https://img.shields.io/badge/Tools-Git-F05032?logo=git&logoColor=white" alt="Tools" />
+
+## GitHub Statistics
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=LeDocteur&show_icons=true&theme=radical" alt="Statistiques GitHub de LeDocteur" />
+</p>
+
  
