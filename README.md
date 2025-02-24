@@ -45,7 +45,7 @@
  ## Contacte
 
 <p>
-  <img src="https://imgur.com/a/RNSHE6T" alt="Mon profil discord" />
+  <img src="https://imgur.com/l6Mo395" alt="Mon profil discord" />
 </p>
 
 ---
@@ -96,5 +96,5 @@
  ## Contact
 
 <p>
-  <img src="https://imgur.com/a/RNSHE6T" alt="My Discord profile" />
+  <img src="https://imgur.com/l6Mo395" alt="My Discord profile" />
 </p>
