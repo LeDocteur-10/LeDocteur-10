@@ -2,7 +2,7 @@
   <img src="https://github.com/user-attachments/assets/e398335e-03ee-4092-af3e-d37297bacfc6" alt="Ma photo de profile discord" />
 </p>
 
-<h1 align="center">Bienvenue sur le profil de LeDocteur</h1>
+<h1 align="center">Bienvenue sur mon profil !</h1>
 
 <p align="center">
   <a href="https://github.com/LeDocteur?tab=followers">
