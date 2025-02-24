@@ -44,7 +44,7 @@
 
  ## Contacte
 
-<p style="text-align: center;>
+<p style="text-align: center;">
   <img src="https://i.imgur.com/l6Mo395_d.webp?maxwidth=500&fidelity=grand" alt="Mon profil discord" />
 </p>
 
@@ -89,7 +89,7 @@
 
 ## GitHub Statistics
 
-<p style="text-align: center;>
+<p style="text-align: center;">
   <img src="https://github-readme-stats.vercel.app/api?username=LeDocteur&show_icons=true&theme=radical" alt="My GitHub Statistics" />
 </p>
 
