@@ -42,6 +42,12 @@
   <img src="https://github-readme-stats.vercel.app/api?username=LeDocteur&show_icons=true&theme=radical" alt="Statistiques GitHub de LeDocteur" />
 </p>
 
+ ## Contacte
+
+<p>
+  <img src="https://imgur.com/a/RNSHE6T" alt="Mon profil discord" />
+</p>
+
 ---
 
 <p align="center">
@@ -61,7 +67,7 @@
 
 ## About Me
 
-- 🇫🇷 **Name**: LeDocteur
+- 🇺🇸 **Name**: LeDocteur
 - 🎓 **Education**: Cybersecurity school student
 - 💻 **Passionate about**: Computing, new technologies, and programming
 - 🔒 **Sharing Policy**: I do not publish my code. If I do, it is prohibited to reuse or modify it without permission.
@@ -84,7 +90,11 @@
 ## GitHub Statistics
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=LeDocteur&show_icons=true&theme=radical" alt="Statistiques GitHub de LeDocteur" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LeDocteur&show_icons=true&theme=radical" alt="My GitHub Statistics" />
 </p>
 
- 
+ ## Contact
+
+<p>
+  <img src="https://imgur.com/a/RNSHE6T" alt="My Discord profile" />
+</p>
